@@ -20,4 +20,6 @@ Bu oyunu görsel programlama dersimin ödevi kapsamında hazırladım.
 
     Dizinin bütün elemanlarını ‘-1’ yapar.
 
-  
+## Oyun İçi Görüntüler
+
+![](https://github.com/madenyasin/aa/blob/main/deneme.gif)
