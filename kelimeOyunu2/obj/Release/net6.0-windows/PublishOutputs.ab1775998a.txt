@@ -1,0 +1,5 @@
+C:\Users\Yasin\Desktop\Yeni klasör (6)\kelimeOyunu2.exe
+C:\Users\Yasin\Desktop\Yeni klasör (6)\kelimeOyunu2.dll
+C:\Users\Yasin\Desktop\Yeni klasör (6)\kelimeOyunu2.deps.json
+C:\Users\Yasin\Desktop\Yeni klasör (6)\kelimeOyunu2.runtimeconfig.json
+C:\Users\Yasin\Desktop\Yeni klasör (6)\kelimeOyunu2.pdb
